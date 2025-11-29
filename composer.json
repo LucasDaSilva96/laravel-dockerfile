@@ -10,9 +10,10 @@
   "authors": [
     {
       "name": "Lucas Da Silva Junior",
-      "email": "lucas.junior@inn.no"
+      "email": "lucas.ds.developer@gmail.com"
     }
   ],
+  "license": "MIT",
   "minimum-stability": "stable",
   "require": {
     "php": ">=8.1",
