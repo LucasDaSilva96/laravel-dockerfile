@@ -1,0 +1,28 @@
+{
+  "name": "lucasdasilvajunior/laravel-dockerfile",
+  "description": "Laravel package to scaffold a Dockerfile with Supervisor and schedule:work",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Lucasdasilvajunior\\LaravelDockerfile\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Lucas Da Silva Junior",
+      "email": "lucas.junior@inn.no"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=8.1",
+    "illuminate/support": "^10.0 | ^11.0"
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Lucasdasilvajunior\\LaravelDockerfile\\DockerServiceProvider"
+      ]
+    }
+  }
+}
