@@ -11,8 +11,8 @@ A Composer-installable Laravel package that provides a production-ready Dockerfi
 
 ## Requirements
 
-- PHP >= 8.1
-- Laravel 10.x or 11.x
+- PHP >= 8.0
+- Laravel 8.x, 9.x, 10.x or 11.x
 
 ## Installation
 
